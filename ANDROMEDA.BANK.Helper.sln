@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDROMEDA.BANK.Helper", "ANDROMEDA.BANK.Helper\ANDROMEDA.BANK.Helper.csproj", "{F98B8F9D-9F45-445F-9DF9-FDA39579384D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDROMEDA.Bank.HelperTest", "ANDROMEDA.Bank.HelperTest\ANDROMEDA.Bank.HelperTest.csproj", "{AC8DC9CA-626A-4429-9F8B-07EEDEC86306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98B8F9D-9F45-445F-9DF9-FDA39579384D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98B8F9D-9F45-445F-9DF9-FDA39579384D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98B8F9D-9F45-445F-9DF9-FDA39579384D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98B8F9D-9F45-445F-9DF9-FDA39579384D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8DC9CA-626A-4429-9F8B-07EEDEC86306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8DC9CA-626A-4429-9F8B-07EEDEC86306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8DC9CA-626A-4429-9F8B-07EEDEC86306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8DC9CA-626A-4429-9F8B-07EEDEC86306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE7128E-1989-47DF-AE61-84FC935421E8}
+	EndGlobalSection
+EndGlobal
